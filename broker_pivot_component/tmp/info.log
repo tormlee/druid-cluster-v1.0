@@ -1,0 +1,6 @@
+[1mNew version available: 2.3.2, you have: 2.3.1[0m
+[Sun Sep 10 11:23:19 2017] Running command[broker], logging to[/home/bigdata/workspace/tools/druid-cluster/broker_pivot_component/var/sv/broker.log]: bin/run-druid broker conf
+[Sun Sep 10 11:23:19 2017] Running command[imply-ui], logging to[/home/bigdata/workspace/tools/druid-cluster/broker_pivot_component/var/sv/imply-ui.log]: bin/run-imply-ui conf
+[Sun Sep 10 11:46:19 2017] Sending signal[15] to command[broker] (timeout 360s).
+[Sun Sep 10 11:46:19 2017] Sending signal[15] to command[imply-ui] (timeout 360s).
+[Sun Sep 10 11:46:19 2017] Command[imply-ui] exited (pid = 24663, signal = 15)

@@ -1,0 +1,3 @@
+[1mNew version available: 2.3.2, you have: 2.3.1[0m
+[Sun Sep 10 01:34:32 2017] Running command[historical], logging to[/home/bigdata/workspace/tools/druid-cluster/historical_component/var/sv/historical.log]: bin/run-druid historical conf
+[Sun Sep 10 11:49:22 2017] Sending signal[15] to command[historical] (timeout 360s).
